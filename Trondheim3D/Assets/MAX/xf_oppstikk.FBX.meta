@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 6b2ac5a7ac3ce8342a5a119c881b4664
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bru_bakt
+    100002: xf_fritrapp
+    100004: xf_fritrapp_MeshPart0
+    100006: xf_fritrapp_MeshPart1
+    100008: xf_kaibrygge_ikke_terreng
+    100010: //RootNode
+    100012: xf_pipe
+    100014: xf_plattform
+    100016: xf_silo
+    100018: xf_tank
+    100020: xf_trappbygg
+    100022: xf_trappbygg_MeshPart0
+    100024: xf_trappbygg_MeshPart1
+    100026: xf_veranda
+    100028: xf_veranda_MeshPart0
+    100030: xf_veranda_MeshPart1
+    100032: xf_veranda_MeshPart10
+    100034: xf_veranda_MeshPart11
+    100036: xf_veranda_MeshPart12
+    100038: xf_veranda_MeshPart13
+    100040: xf_veranda_MeshPart14
+    100042: xf_veranda_MeshPart15
+    100044: xf_veranda_MeshPart16
+    100046: xf_veranda_MeshPart17
+    100048: xf_veranda_MeshPart18
+    100050: xf_veranda_MeshPart2
+    100052: xf_veranda_MeshPart3
+    100054: xf_veranda_MeshPart4
+    100056: xf_veranda_MeshPart5
+    100058: xf_veranda_MeshPart6
+    100060: xf_veranda_MeshPart7
+    100062: xf_veranda_MeshPart8
+    100064: xf_veranda_MeshPart9
+    400000: bru_bakt
+    400002: xf_fritrapp
+    400004: xf_fritrapp_MeshPart0
+    400006: xf_fritrapp_MeshPart1
+    400008: xf_kaibrygge_ikke_terreng
+    400010: //RootNode
+    400012: xf_pipe
+    400014: xf_plattform
+    400016: xf_silo
+    400018: xf_tank
+    400020: xf_trappbygg
+    400022: xf_trappbygg_MeshPart0
+    400024: xf_trappbygg_MeshPart1
+    400026: xf_veranda
+    400028: xf_veranda_MeshPart0
+    400030: xf_veranda_MeshPart1
+    400032: xf_veranda_MeshPart10
+    400034: xf_veranda_MeshPart11
+    400036: xf_veranda_MeshPart12
+    400038: xf_veranda_MeshPart13
+    400040: xf_veranda_MeshPart14
+    400042: xf_veranda_MeshPart15
+    400044: xf_veranda_MeshPart16
+    400046: xf_veranda_MeshPart17
+    400048: xf_veranda_MeshPart18
+    400050: xf_veranda_MeshPart2
+    400052: xf_veranda_MeshPart3
+    400054: xf_veranda_MeshPart4
+    400056: xf_veranda_MeshPart5
+    400058: xf_veranda_MeshPart6
+    400060: xf_veranda_MeshPart7
+    400062: xf_veranda_MeshPart8
+    400064: xf_veranda_MeshPart9
+    2300000: bru_bakt
+    2300002: xf_fritrapp_MeshPart0
+    2300004: xf_fritrapp_MeshPart1
+    2300006: xf_kaibrygge_ikke_terreng
+    2300008: xf_pipe
+    2300010: xf_plattform
+    2300012: xf_silo
+    2300014: xf_tank
+    2300016: xf_trappbygg_MeshPart0
+    2300018: xf_trappbygg_MeshPart1
+    2300020: xf_veranda_MeshPart0
+    2300022: xf_veranda_MeshPart1
+    2300024: xf_veranda_MeshPart10
+    2300026: xf_veranda_MeshPart11
+    2300028: xf_veranda_MeshPart12
+    2300030: xf_veranda_MeshPart13
+    2300032: xf_veranda_MeshPart14
+    2300034: xf_veranda_MeshPart15
+    2300036: xf_veranda_MeshPart16
+    2300038: xf_veranda_MeshPart17
+    2300040: xf_veranda_MeshPart18
+    2300042: xf_veranda_MeshPart2
+    2300044: xf_veranda_MeshPart3
+    2300046: xf_veranda_MeshPart4
+    2300048: xf_veranda_MeshPart5
+    2300050: xf_veranda_MeshPart6
+    2300052: xf_veranda_MeshPart7
+    2300054: xf_veranda_MeshPart8
+    2300056: xf_veranda_MeshPart9
+    3300000: bru_bakt
+    3300002: xf_fritrapp_MeshPart0
+    3300004: xf_fritrapp_MeshPart1
+    3300006: xf_kaibrygge_ikke_terreng
+    3300008: xf_pipe
+    3300010: xf_plattform
+    3300012: xf_silo
+    3300014: xf_tank
+    3300016: xf_trappbygg_MeshPart0
+    3300018: xf_trappbygg_MeshPart1
+    3300020: xf_veranda_MeshPart0
+    3300022: xf_veranda_MeshPart1
+    3300024: xf_veranda_MeshPart10
+    3300026: xf_veranda_MeshPart11
+    3300028: xf_veranda_MeshPart12
+    3300030: xf_veranda_MeshPart13
+    3300032: xf_veranda_MeshPart14
+    3300034: xf_veranda_MeshPart15
+    3300036: xf_veranda_MeshPart16
+    3300038: xf_veranda_MeshPart17
+    3300040: xf_veranda_MeshPart18
+    3300042: xf_veranda_MeshPart2
+    3300044: xf_veranda_MeshPart3
+    3300046: xf_veranda_MeshPart4
+    3300048: xf_veranda_MeshPart5
+    3300050: xf_veranda_MeshPart6
+    3300052: xf_veranda_MeshPart7
+    3300054: xf_veranda_MeshPart8
+    3300056: xf_veranda_MeshPart9
+    4300000: xf_trappbygg_MeshPart0
+    4300002: xf_trappbygg_MeshPart1
+    4300004: xf_fritrapp_MeshPart0
+    4300006: xf_fritrapp_MeshPart1
+    4300008: xf_pipe
+    4300010: xf_plattform
+    4300012: xf_silo
+    4300014: xf_tank
+    4300016: xf_veranda_MeshPart0
+    4300018: xf_veranda_MeshPart1
+    4300020: xf_veranda_MeshPart2
+    4300022: xf_veranda_MeshPart3
+    4300024: xf_veranda_MeshPart4
+    4300026: xf_veranda_MeshPart5
+    4300028: xf_veranda_MeshPart6
+    4300030: xf_veranda_MeshPart7
+    4300032: xf_veranda_MeshPart8
+    4300034: xf_veranda_MeshPart9
+    4300036: xf_veranda_MeshPart10
+    4300038: xf_veranda_MeshPart11
+    4300040: xf_veranda_MeshPart12
+    4300042: xf_veranda_MeshPart13
+    4300044: xf_veranda_MeshPart14
+    4300046: xf_veranda_MeshPart15
+    4300048: xf_veranda_MeshPart16
+    4300050: xf_veranda_MeshPart17
+    4300052: xf_veranda_MeshPart18
+    4300054: xf_kaibrygge_ikke_terreng
+    4300056: bru_bakt
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eksisterende bygg
+    second: {fileID: 2100000, guid: 8cc01955e84737a43b7f5fbc3558721b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eksisterende bygg - Veranda
+    second: {fileID: 2100000, guid: 9aace760c493af5469c8114c2491165c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 84290c8ef6c6f2b4dbe2a77e145eec9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #16100'
+    second: {fileID: 2100000, guid: 4dc23703cf969584aa3122dcfb0930fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #5463'
+    second: {fileID: 2100000, guid: 9ca83d82259f392459f20bd22c08f550, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piper
+    second: {fileID: 2100000, guid: 982c3ecf34f4d0d4f95c16d3c8ecdc45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tank
+    second: {fileID: 2100000, guid: 2006741489a649d4a90494fd434f9f6d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
