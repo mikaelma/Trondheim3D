@@ -5,6 +5,9 @@
 [Bb]uilds/
 Assets/AssetStoreTools*
 
+# Ignore Trondheim City assets since they are too big for version control
+MAX/
+
 # Visual Studio cache directory
 .vs/
 
